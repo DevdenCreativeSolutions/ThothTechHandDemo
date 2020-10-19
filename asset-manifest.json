@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DevdenCreativeSolutions/ThothTechHandDemo/static/css/main.9b1ab70d.chunk.css",
+    "main.js": "/DevdenCreativeSolutions/ThothTechHandDemo/static/js/main.b305b8ff.chunk.js",
+    "main.js.map": "/DevdenCreativeSolutions/ThothTechHandDemo/static/js/main.b305b8ff.chunk.js.map",
+    "runtime-main.js": "/DevdenCreativeSolutions/ThothTechHandDemo/static/js/runtime-main.e41a1d77.js",
+    "runtime-main.js.map": "/DevdenCreativeSolutions/ThothTechHandDemo/static/js/runtime-main.e41a1d77.js.map",
+    "static/js/2.e3477e34.chunk.js": "/DevdenCreativeSolutions/ThothTechHandDemo/static/js/2.e3477e34.chunk.js",
+    "static/js/2.e3477e34.chunk.js.map": "/DevdenCreativeSolutions/ThothTechHandDemo/static/js/2.e3477e34.chunk.js.map",
+    "index.html": "/DevdenCreativeSolutions/ThothTechHandDemo/index.html",
+    "precache-manifest.c3b952fe73f6600acb96bda24c6a918a.js": "/DevdenCreativeSolutions/ThothTechHandDemo/precache-manifest.c3b952fe73f6600acb96bda24c6a918a.js",
+    "service-worker.js": "/DevdenCreativeSolutions/ThothTechHandDemo/service-worker.js",
+    "static/css/main.9b1ab70d.chunk.css.map": "/DevdenCreativeSolutions/ThothTechHandDemo/static/css/main.9b1ab70d.chunk.css.map",
+    "static/js/2.e3477e34.chunk.js.LICENSE.txt": "/DevdenCreativeSolutions/ThothTechHandDemo/static/js/2.e3477e34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e41a1d77.js",
+    "static/js/2.e3477e34.chunk.js",
+    "static/css/main.9b1ab70d.chunk.css",
+    "static/js/main.b305b8ff.chunk.js"
+  ]
+}
